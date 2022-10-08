@@ -7,9 +7,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aceve-dos&show_icons=true&theme=tokyonight&)
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,php)](https://skillicons.dev)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aceve-dos&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aceve-dos&theme=juicyfresh&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,php)](https://skillicons.dev)
 
 
 
